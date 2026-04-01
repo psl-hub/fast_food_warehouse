@@ -19,6 +19,11 @@ dim层数据展示：<img width="2287" height="211" alt="屏幕截图 2026-03-31
 dws层数据展示：<img width="2438" height="568" alt="屏幕截图 2026-03-31 170752" src="https://github.com/user-attachments/assets/1c747fb1-a0e1-4114-927f-7f6f40136e79" />
 ads层数据展示：<img width="2367" height="776" alt="屏幕截图 2026-03-31 171013" src="https://github.com/user-attachments/assets/9f9be62b-128d-461f-a3ed-67df151f89c4" />
 dolphinscheduler数据流调度：![4d71a3398c0c41711d4eded3d604332d](https://github.com/user-attachments/assets/a00df6aa-99c8-4211-96da-8939f3bb920f)
+部分建表SQL展示：<img width="1116" height="1156" alt="屏幕截图 2026-03-31 171122" src="https://github.com/user-attachments/assets/999e114d-2cc6-4e53-a981-4659fd4444c9" />
+数据FindBI可视化图表：<img width="1339" height="876" alt="屏幕截图 2026-04-01 141614" src="https://github.com/user-attachments/assets/1e4f0a5c-788b-44e5-9695-34ada980c48b" />
+数据FindBI可视化报表：<img width="1626" height="736" alt="屏幕截图 2026-04-01 144859" src="https://github.com/user-attachments/assets/fdbcad4d-5fd1-4422-9ef7-8f53287d96a9" />
+<img width="1920" height="868" alt="屏幕截图 2026-04-01 162509" src="https://github.com/user-attachments/assets/a2818c2c-277f-4e20-915b-cd88c27cc6c3" />
+
 
 
 
